@@ -28,7 +28,7 @@ I have disabled seperate style. So this will not work :
 ```
 let g:spaceline_seperate_style= 'arrow'
 ```
-I have added total number of buffers to statusline. It was really important to me and what started the chane in the first place. 
+I have added total number of buffers to statusline. It was really important to me and what started the change in the first place. 
 You need to setup your own icons in the statusline in .vimrc like mine.You can use the below command in your vim to see icons or glyphs that devicons has and
 copy the icons to your .vimrc.
 ```
@@ -42,6 +42,7 @@ You have 3 options for your colorscheme : 'one' , 'space' and 'dracula'. For som
 Enjoy!  
 
 This is the end result :
+
 One
 ![EndResult1](Images/EndResult1.png)
 ![EndResult2](Images/EndResult2.png)
