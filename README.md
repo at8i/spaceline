@@ -42,9 +42,14 @@ You have 3 options for your colorscheme : 'one' , 'space' and 'dracula'. For som
 Enjoy!  
 
 This is the end result :
+One
 ![EndResult1](Images/EndResult1.png)
 ![EndResult2](Images/EndResult2.png)
+
+Dracula
 ![EndResult3](Images/EndResult3.png)
+
+Space
 ![EndResult3](Images/EndResult4.png)
 ![EndResult3](Images/EndResult5.png)
 
