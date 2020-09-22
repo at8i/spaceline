@@ -12,6 +12,7 @@ I changed it a bit so it suits my needs. I am sharing it here so everyone can us
 
 ## Setup
 Follow instructions given in : https://github.com/glepnir/spaceline.vim
+
 Download or clone modified files.
 
 Then go to your plugin and replace  the files highlighted in the picture in your plugin:
