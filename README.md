@@ -34,7 +34,7 @@ copy the icons to your .vimrc.
 ```
 :echo WebDevIconsUnicodeDecorateFileNodesExtensionSymbols
 ```
-Another options is to use this website: https://www.nerdfonts.com/cheat-sheet. 
+Another option is to use this website: https://www.nerdfonts.com/cheat-sheet. 
 Copy the icons that you want and paste them into your setup.
 
 ## Color Scheme Samples
