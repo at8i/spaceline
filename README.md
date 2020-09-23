@@ -58,5 +58,5 @@ Space
 Maybe a weird project would look like this :
 
 ![SampleProject](Images/SampleProject.png)
-## macos-term
+## macos term
 
