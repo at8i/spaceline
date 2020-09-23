@@ -3,7 +3,7 @@
 * [Setup](#setup)
 * [Options and Icons](#options-and-icons)
 * [Color Scheme Samples](#color-scheme-samples)
-* [Iterm2 Problem and MacOS setup in detail](#Iterm2)
+* [Iterm2 Problem and MacOS setup in detail](#Iterm2-Problem-MacOS-setup-in-detail)
 
 ## General info
 Vim Statusline Plugin : Spaceline modified
@@ -58,4 +58,4 @@ Space
 Maybe a weird project would look like this :
 
 ![SampleProject](Images/SampleProject.png)
-## Iterm2
+## Iterm2 Problem and MacOS setup in detail
