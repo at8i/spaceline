@@ -3,7 +3,8 @@
 * [Setup](#setup)
 * [Options and Icons](#options-and-icons)
 * [Color Scheme Samples](#color-scheme-samples)
-* [MacOS Terminal dark gruvbox setup and Space colorscheme modified](#macos-term)
+* [MacOS Terminal dark gruvbox setup](#Macos-term-dark-Gruvbox-setup)
+* [Space colorscheme modified](#Space-colorscheme)
 
 ## General info
 Vim Statusline Plugin : Spaceline modified
@@ -58,5 +59,6 @@ Space
 Maybe a weird project would look like this :
 
 ![SampleProject](Images/SampleProject.png)
-## macos term
+## Macos term dark Gruvbox setup
+## Space colorscheme
 
