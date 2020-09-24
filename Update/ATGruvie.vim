@@ -1,6 +1,7 @@
 " =============================================================================
 " Filename: spaceline.vim
-" Author: glepnir
+" Author: AT8i
+" URL: https://github.com/at8i/spaceline
 " URL: https://github.com/glepnir/spaceline.vim
 " License: MIT License
 " =============================================================================
