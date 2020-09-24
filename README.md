@@ -104,7 +104,7 @@ How it should look at the end:
 
 There are two issues that I have with this. Take a look at these pictures and you will notice them. 
 
-![VimTermIssue](VimTermIssue/.png)
+![VimTermIssue](VimTermIssue.png)
 ![MacVimIssue2](Images/MacVimIssue2.png)
 
 1-Terminal: The space after branch of git is bothering me.I did not do anything about it because if messes up MacVim but Solved it for myslef. I guess it is just an if statement but I did not bother.
