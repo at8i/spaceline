@@ -95,7 +95,10 @@ MacVim:
 
 How it should look at the end:
 
+Vim Terminal
 ![Term](Images/Term.png)
+
+MacVim
 ![MacVim](Images/MacVim.png)
 
 
@@ -104,10 +107,16 @@ How it should look at the end:
 
 There are two issues that I have with this. Take a look at these pictures and you will notice them. 
 
-![VimTermIssue](VimTermIssue.png)
+VimTerm
+
+![VimTermIssue](Images/VimTermIssue.png)
+
+MacVim
+
 ![MacVimIssue2](Images/MacVimIssue2.png)
 
 1-Terminal: The space after branch of git is bothering me.I did not do anything about it because if messes up MacVim but Solved it for myslef. I guess it is just an if statement but I did not bother.
+
 2-The color of filetype sign is not loading in MacVim.
 
 Terminal is much more important for me so I am ok with this but I am looking for a solution if somebody knows for problem 2. I just usually use MacVim to check a file and go back to my terminal.
