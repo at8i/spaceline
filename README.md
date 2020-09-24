@@ -41,7 +41,7 @@ Another option is to use this website: https://www.nerdfonts.com/cheat-sheet.
 Copy the icons that you want and paste them into your setup.
 
 ## Color Scheme Samples
-You have 3 options for your colorscheme : 'one' , 'space' and 'dracula' and 'ATGruvie'
+You have 4 options for your colorscheme : 'one' , 'space' and 'dracula' and 'ATGruvie'. See the new colorscheme section to see how you can set it up.
 Enjoy!  
 
 This is the end result :
